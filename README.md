@@ -1,7 +1,6 @@
 # Mechanical keyboard Firmware
 Firmware for Nordic MCUs used for clients custom mechanical Keyboard, contains precompiled .hex files, as well as sources buildable with the Nordic SDK
 
-## Folder Structure
 ## Folder structure
 	.
 	├── docs        # Documentation directory
