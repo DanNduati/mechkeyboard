@@ -38,7 +38,7 @@ static volatile bool debouncing = false;
 // Debug helper variables
 static volatile bool init_ok, enable_ok, push_ok, pop_ok, tx_success;  
 
-// Setup switch pins with pullups
+// Setup matrix pins with pullups
 static void gpio_config(void)
 {
     nrf_gpio_cfg_sense_input(S01, NRF_GPIO_PIN_PULLUP, NRF_GPIO_PIN_SENSE_LOW);
@@ -272,4 +272,3 @@ void nrf_gzll_host_rx_data_ready(uint32_t pipe, nrf_gzll_host_rx_info_t rx_info)
 {}
 void nrf_gzll_disabled()
 {}
-

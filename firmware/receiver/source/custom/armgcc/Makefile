@@ -1,4 +1,4 @@
-PROJECT_NAME := mitosis-receiver-basic
+PROJECT_NAME := receiver
 
 export OUTPUT_FILENAME
 #MAKEFILE_NAME := $(CURDIR)/$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))
