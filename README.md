@@ -1,6 +1,14 @@
-# mechkeyboard
+# Mechanical keyboard Firmware
 Firmware for Nordic MCUs used for clients custom mechanical Keyboard, contains precompiled .hex files, as well as sources buildable with the Nordic SDK
 
+## Folder Structure
+## Folder structure
+	.
+	├── docs        # Documentation directory
+	├── firmware    # The keyboard and receiver firmware
+	├── images      # Images directory
+	├── kbfirmware  # kbfirmware directory
+	└── README.md
 ## Install dependencies
 
 Tested on Ubuntu 16.04.2, but should be able to find alternatives on all distros. 
