@@ -95,4 +95,4 @@ An openocd session should be running in another terminal, as this script sends c
 |   Row Pins  | P01 | P02 | P03 | P04 | P05 |     |     |     |     |     |     |     |     |     |
 | Column Pins | P06 | P07 | P08 | P09 | P10 | P11 | P12 | P13 | P14 | P15 | P16 | P17 | P18 | P19 |
 
-<img scr="/images/wiring_diagram.png"></img>
+<img src="/images/wiring_diagram.png"></img>
